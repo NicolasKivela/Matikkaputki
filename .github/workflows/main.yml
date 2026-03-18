@@ -5,7 +5,7 @@ on:
 
 defaults:
   run:
-    working-directory: MathWorkshops
+    working-directory: ./MathWorkshop
 jobs:
   build:
     runs-on: ubuntu-latest
