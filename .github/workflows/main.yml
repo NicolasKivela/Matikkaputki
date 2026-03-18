@@ -16,4 +16,4 @@ jobs:
       with:
         sdotnet-version: '10.0.x'
     - run: dotnet restore
-    - run: dotnet buid
+    - run: dotnet build
